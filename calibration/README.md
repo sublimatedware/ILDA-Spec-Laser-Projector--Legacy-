@@ -1,4 +1,4 @@
-#Calibration info
+# Calibration info
 
 The process for calibrating the laser amplifier to remove non-linearity is explained below:
 
